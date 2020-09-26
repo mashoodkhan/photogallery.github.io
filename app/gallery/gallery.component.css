@@ -1,0 +1,33 @@
+.images img{
+    display: flex!important;
+    justify-content: center!important;  
+    flex-wrap: wrap!important; 
+    margin-right: 35px;
+    margin-bottom: 10px;
+}
+
+.tn{
+    padding: 3px;
+    width: 150px;
+    height: 150px;
+    float: right;
+}
+.tn:hover{
+    box-shadow: 2px 2px 5px slategrey;
+}
+.jumbotron-fluid{
+	background-color: #ffffff;
+	-webkit-box-shadow: -2px 3px 14px -5px rgba(46,40,42,1);
+   -moz-box-shadow: -2px 3px 14px -5px rgba(46,40,42,1);
+    box-shadow: -2px 3px 14px -5px rgba(46,40,42,1); 
+}
+.add{
+    padding: 3px;
+    width: 450px;
+    height: 450px;
+    float: right;
+}
+/* .images p{
+    display: flex!important; 
+} */
+
